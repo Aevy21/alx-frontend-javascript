@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 0x00. ES6 Basics
 
@@ -224,3 +225,8 @@ function Counter() {
 const myCounter = new Counter();
 // Output: Increments the count by 1 every second
 ```
+=======
+# Front-End Project(Javascript)
+
+## This repository contains the source codes for the javascript projects , showcasing how these ES6 features are implemented to enhance code readability and maintainability.
+>>>>>>> d7b9e81495fd5d143e0bcaba7c5cd82beedd4526

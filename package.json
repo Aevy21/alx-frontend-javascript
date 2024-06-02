@@ -1,0 +1,26 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "## Overview This project, Ripple, is a front-end application built with modern JavaScript (ES6). It leverages various ES6 features to enhance code readability, maintainability, and efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Aevy21/alx-frontend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aevy21/alx-frontend-javascript/issues"
+  },
+  "homepage": "https://github.com/Aevy21/alx-frontend-javascript#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@nodefill/util": "^0.2.0",
+    "eslint": "^7.32.0",
+    "lodash": "^4.17.21"
+  }
+}

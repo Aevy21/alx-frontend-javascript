@@ -48,7 +48,7 @@ export default class HolbertonCourse {
   }
 
   _validateArrayOfStrings(value, attributeName) {
-    if (!Array.isArray(value) || !value.every(item => typeof item === 'string')) {
+    if (!Array.isArray(value) || !value.every((item) => typeof item === 'string')) {
       throw new TypeError(`${attributeName} must be an array of strings`);
     }
     return value;
